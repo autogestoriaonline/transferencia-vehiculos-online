@@ -1,6 +1,5 @@
-# transferencia-vehiculos-online
+# Transferencias de vehículos Online
 Guía completa sobre cómo realizar [transferencia de vehículos online](https://autogestoriaonline.com/transferencias-vehiculos/), incluyendo el proceso, plataformas y requisitos. Además, ofrece ejemplos de código para automatizar etapas utilizando APIs. Ideal para quienes deseen aprender o implementar transferencias de vehículos de forma rápida y eficiente.
-# Transferencia de Vehículos en Línea
 
 Este repositorio contiene información detallada sobre cómo realizar una transferencia de vehículos en línea. A través de este repositorio, aprenderás sobre el proceso legal, las plataformas disponibles y cómo puedes automatizar el proceso mediante código si es necesario.
 
